@@ -1,6 +1,6 @@
 ### Hi there, my name is Simona. 
    ### About me:
--  🌍 I am coming from Finance to IT world
+-  🌍 I am coming from Finance to IT
 -  💻 Beginner programmer currently exploring the Python world
 -  🌱 Open for any help or constructive criticism 😄
 -  ⚡ In my free time I like hiking, Gymnastics and Track and Field
