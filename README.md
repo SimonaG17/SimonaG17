@@ -5,7 +5,7 @@
 -  👨‍🎓 Currently studying in SoftUni:
    ✅ Programming basics with Python
    ✅ Fundamentals with Python
-   🚧 Python Advanced in progress
+   ✅ Python Advanced
    🚧 Python OOP in progress
 -  🌱 Open for any help or constructive criticism 😄
 -  ⚡ In my free time I like hiking, Gymnastics and Track and Field
