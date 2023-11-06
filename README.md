@@ -2,7 +2,7 @@
    ### About me:
 -  🌍 I am coming from Finance to IT
 -  💻 Beginner programmer exploring the Python world
--  💻 WordPress Developer
+-  💻 WordPress Developer - www.simonageorgieva.dev
 -  👨‍🎓 Currently studying in SoftUni:
 -  ✅ Programming basics with Python
 -  ✅ Fundamentals with Python
